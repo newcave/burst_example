@@ -1,3 +1,3 @@
 train:
-    runipy code_burst.ipynb
+    runipy burst_classification.ipynb
     
